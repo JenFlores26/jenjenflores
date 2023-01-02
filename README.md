@@ -1,4 +1,4 @@
-# new-app
+# portfolio-web
 
 ## Project setup
 ```
